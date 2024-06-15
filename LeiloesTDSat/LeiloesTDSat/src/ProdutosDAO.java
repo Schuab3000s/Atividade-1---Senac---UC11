@@ -34,6 +34,13 @@ public class ProdutosDAO {
         
         return listagem;
     }
+
+    /**
+     * @param id
+     */
+    public void venderProduto(Integer id){
+        
+    }
     
     
     
